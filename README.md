@@ -1,4 +1,4 @@
-# Kali-Linux-8892eu Drivers
+# Kali-Linux-8192eu Drivers
 
 
     Install DKMS and other required tools for normal **Linux systems**
@@ -12,7 +12,7 @@
 
     Clone this repository and change your directory to cloned path.
 
-    git clone https://github.com/munzoorf95/Kali-Linux-8892eu.git
+    git clone https://github.com/munzoorf95/Kali-Linux-rtl8192eu.git
 
     **you need to install unzip.**
     
