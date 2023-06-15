@@ -1,11 +1,11 @@
 # Kali-Linux-8892eu Drivers
 
 
-    Install DKMS and other required tools for normal Linux systems
+    Install DKMS and other required tools for normal **Linux systems**
 
     sudo apt-get install git linux-headers-generic build-essential dkms
     
-    for Raspberry Pi
+    **For Raspberry Pi**
 
     sudo apt-get install git raspberrypi-kernel-headers build-essential dkms
 
@@ -14,7 +14,7 @@
 
     git clone https://github.com/munzoorf95/Kali-Linux-8892eu.git
 
-    you need to install unzip.
+    **you need to install unzip.**
     
     sudo apt install unzip
     
@@ -29,7 +29,7 @@
     CONFIG_PLATFORM_I386_PC = n
     CONFIG_PLATFORM_ARM_RPI = y
 
-    For arm64 devices (e.g. Orange Pi PC 2):
+    **For arm64 devices (e.g. Orange Pi PC 2):**
    
     CONFIG_PLATFORM_I386_PC = n
     CONFIG_PLATFORM_ARM_AARCH64 = y
